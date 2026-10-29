@@ -1,16 +1,47 @@
-## Hi there 👋
+# 🚀 Syed Ammar Shah
 
-<!--
-**Ammarshah10/AmmarShah10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/Role-Data%20Entry%20Operator%20%7C%20Frontend%20Developer-blue" alt="Role">
+  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-orange" alt="Location">
+</p>
 
-Here are some ideas to get you started:
+Hi there! 👋 I am **Syed Ammar Shah**, a motivated Computer Science student, Data Entry Operator, and passionate Web Developer based in Karachi, Pakistan. I combine hands-on industrial data operations experience with modern frontend web development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+* **Web Technologies:** HTML5, CSS3, JavaScript, Bootstrap
+* **Backend & Frameworks:** .NET Core MVC, C#, SQL Server, MySQL, PHP (Basics)
+* **Tools & Platforms:** GitHub, Oracle Software, Microsoft Excel, Word, PowerPoint
+* **Core Competencies:** Data Entry & Operations, Record Management, Frontend Development, Inventory Systems
+
+---
+
+### 💼 Professional Experience & Projects
+
+| Project / Role | Description | Tech Stack / Tools | Link / Status |
+| :--- | :--- | :--- | :--- |
+| **Naveena Steel** | *Data Entry Operator (1 Year)* — Routine data posting, business information entry, and accurate record maintenance. | Oracle Software, MS Office | Industry Experience |
+| **ASH Contract Website** | Live business website frontend development. | HTML, CSS, JavaScript | [Live Site](https://www.ashcontract.com/) |
+| **Mill Guide Management System** | Frontend interface for CNC department mill guide rolls; tracks roll thickness, machining updates, and reporting. | Frontend Tech | Industrial Tool |
+| **Stationery / Inventory System** | Inventory and billing system featuring comprehensive admin and user panels. | .NET Core MVC, C#, SQL | Desktop / Web App |
+| **Salon Management System** | Complete management system featuring booking, staff, and service-handling features. | PHP, MySQL | Web Application |
+
+---
+
+### 📚 Education & Certifications
+
+* **ADSE Course:** Aptech Metro Star Gate *(In Progress)*
+* **Intermediate (Computer Science):** Ziauddin University Examination Board *(1st Year: 422/550 - 76.7%)*
+* **Matriculation:** Grade A (2023)
+* **Certifications:** .NET Development Course (Aptech)
+
+---
+
+### 🌐 Connect With Me
+
+* **Email:** ammarsyed755@gmail.com
+* **LinkedIn:** [ammar-shah-365354309](https://www.linkedin.com/in/ammar-shah-365354309)
+* **Phone:** 0328-2793585 / 0314-2559621
