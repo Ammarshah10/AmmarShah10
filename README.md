@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-orange" alt="Location">
 </p>
 
-Hi there! 👋 I am **Syed Ammar Shah**, a motivated Computer Science student, Data Entry Operator, and passionate Web Developer based in Karachi, Pakistan. I combine hands-on industrial data operations experience with modern frontend web development skills.
+Hi there! 👋 I am **Syed Ammar Shah**, a motivated Computer Science student, Data Entry Operator, and passionate Web Developer based in Karachi, Pakistan. I manage industrial plant operations data (downtime tracking, rolling mill, and steel melt shop logs) alongside modern frontend and full-stack web development.
 
 ---
 
@@ -14,8 +14,8 @@ Hi there! 👋 I am **Syed Ammar Shah**, a motivated Computer Science student, D
 
 * **Web Technologies:** HTML5, CSS3, JavaScript, Bootstrap
 * **Backend & Frameworks:** .NET Core MVC, C#, SQL Server, MySQL, PHP (Basics)
-* **Tools & Platforms:** GitHub, Oracle Software, Microsoft Excel, Word, PowerPoint
-* **Core Competencies:** Data Entry & Operations, Record Management, Frontend Development, Inventory Systems
+* **Tools & Platforms:** GitHub, Oracle Software, Microsoft Excel (VBA Macros), Word, PowerPoint
+* **Core Competencies:** Plant Downtime Tracking, Steel Melt Shop & Rolling Mill Logs, Data Operations & Record Management, Frontend Development
 
 ---
 
@@ -23,7 +23,7 @@ Hi there! 👋 I am **Syed Ammar Shah**, a motivated Computer Science student, D
 
 | Project / Role | Description | Tech Stack / Tools | Link / Status |
 | :--- | :--- | :--- | :--- |
-| **Naveena Steel** | *Data Entry Operator (1 Year)* — Routine data posting, business information entry, and accurate record maintenance. | Oracle Software, MS Office | Industry Experience |
+| **Naveena Steel** | *Data Entry Operator (1 Year)* — Managing industrial plant downtime tracking, breakdown logs, rolling mill, and steel melt shop daily data posting using Oracle and Excel. | Oracle Software, MS Excel | Industry Experience |
 | **ASH Contract Website** | Live business website frontend development. | HTML, CSS, JavaScript | [Live Site](https://www.ashcontract.com/) |
 | **Mill Guide Management System** | Frontend interface for CNC department mill guide rolls; tracks roll thickness, machining updates, and reporting. | Frontend Tech | Industrial Tool |
 | **Stationery / Inventory System** | Inventory and billing system featuring comprehensive admin and user panels. | .NET Core MVC, C#, SQL | Desktop / Web App |
@@ -35,7 +35,7 @@ Hi there! 👋 I am **Syed Ammar Shah**, a motivated Computer Science student, D
 
 * **ADSE Course:** Aptech Metro Star Gate *(In Progress)*
 * **Intermediate (Computer Science):** Ziauddin University Examination Board *(1st Year: 422/550 - 76.7%)*
-* **Matriculation:** Grade A (2023)
+* **Matriculation:** Grade A (2024)
 * **Certifications:** .NET Development Course (Aptech)
 
 ---
