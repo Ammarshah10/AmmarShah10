@@ -10,12 +10,12 @@ Hi there! 👋 I am **Syed Ammar Shah**, a motivated Computer Science student, D
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Technical Skills & Expertise
 
-* **Web Technologies:** HTML5, CSS3, JavaScript, Bootstrap
-* **Backend & Frameworks:** .NET Core MVC, C#, SQL Server, MySQL, PHP (Basics)
-* **Tools & Platforms:** GitHub, Oracle Software, Microsoft Excel (VBA Macros), Word, PowerPoint
-* **Core Competencies:** Plant Downtime Tracking, Steel Melt Shop & Rolling Mill Logs, Data Operations & Record Management, Frontend Development
+* **Frontend Development:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, Responsive Web Design
+* **Backend & Databases:** .NET Core MVC, C#, PHP, SQL Server, MySQL
+* **Tools & Software:** Git & GitHub, Oracle ERP, MS Excel (VBA / Automation), MS Office Suite
+* **Industrial & Core Skills:** Plant Downtime Tracking, Breakdown Operations Logging (Rolling Mill & Steel Melt Shop), Process Data Entry & ReportingDevelopment
 
 ---
 
